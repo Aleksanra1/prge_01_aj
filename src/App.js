@@ -6,8 +6,6 @@ const lista_uzytkownikow = [
   { imie: "Kacper" },
 ];
 
-console.log(lista_uzytkownikow);
-
 function App() {
   return (
     <div className="App">
